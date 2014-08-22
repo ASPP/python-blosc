@@ -1,0 +1,5 @@
+/debhelper.log
+/files
+/python*-blosc.*
+/python*-blosc/
+/substvars

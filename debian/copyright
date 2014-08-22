@@ -1,0 +1,21 @@
+This work was packaged for Debian by:
+
+    Zbigniew Jędrzejewski-Szmek <zbyszek@in.waw.pl> on 2014-08-22
+
+It was downloaded from:
+
+    <https://github.com/Blosc/python-blosc>
+
+Upstream Author:
+
+    Francesc Alted <faltet@gmail.com>
+
+Copyright:
+
+    Copyright (C) 2010-2014 Francesc Alted (francesc@blosc.io)
+
+License:
+
+    MIT.
+
+Debian packaging is placed in the public domain.
